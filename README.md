@@ -13,9 +13,6 @@ Merit Count Persistence
 Uses @AppStorage to save the total merit count, even after the app is closed and reopened.
 
 📂 Project Structure
-bash
-复制
-编辑
 MuyuPracticeApp/
 ├── ContentView.swift           # Main UI and interaction logic
 ├── Assets.xcassets/            # Image assets

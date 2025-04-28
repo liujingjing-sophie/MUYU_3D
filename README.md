@@ -12,14 +12,6 @@ Tap the background to change colors randomly or choose manually for a richer exp
 Merit Count Persistence
 Uses @AppStorage to save the total merit count, even after the app is closed and reopened.
 
-📂 Project Structure
-MuyuPracticeApp/
-├── ContentView.swift           # Main UI and interaction logic
-├── Assets.xcassets/            # Image assets
-├── Resources/
-│   └── muyu.usdz               # 3D Muyu model file
-├── MuyuPracticeAppApp.swift    # App entry point
-├── README.md                   # Project description file
 🚀 How to Run
 Open the project with Xcode.
 
